@@ -26,7 +26,7 @@ PRODUCT FILE C:\calc\out\mul.txt_2025-05-13_11-02-45.txt contents 30.0
 
 DIVISION FILE C:\calc\in\div.txt
 
-     x 5 6
+     : 5 6
 QUOTIENT FILE C:\calc\out\div.txt_2025-05-13_11-05-51.txt contents 0.8333333333333333333333333333333333333333
 
 
@@ -34,9 +34,3 @@ MODULUS FILE C:\calc\in\mod.txt
 
      % 5 6
 REMAINDER FILE C:\calc\out\mod.txt_2025-05-13_11-08-51.txt contents 5.0
-
-
-
-
-
-
