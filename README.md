@@ -8,14 +8,14 @@ in a file.txt by operational command as prefix.
 
 ADDITION FILE C:\calc\in\add.txt
 
-     + 5 6
-SUM FILE C:\calc\out\add.txt_2025-05-13_10-53-00.txt contents 11.0
+     + 500.01 499.99
+SUM FILE C:\calc\out\add.txt_2025-05-13_10-53-00.txt contents 1000.0
 
 
 SUBTRACTION FILE C:\calc\in\sub.txt
 
-     - 5 6
-DIFFERENCE FILE C:\calc\out\sub.txt_2025-05-13_10-58-12.txt contents -1.0
+     - 5 16
+DIFFERENCE FILE C:\calc\out\sub.txt_2025-05-13_10-58-12.txt contents -11.0
 
 
 MULTIPLICATION FILE C:\calc\in\mul.txt
@@ -33,3 +33,12 @@ MODULUS FILE C:\calc\in\mod.txt
 
      % 5 6
 REMAINDER FILE C:\calc\out\mod.txt_2025-05-13_11-08-51.txt contents 5.0
+
+
+By mirth computing you will see:
+
+![mirth_netCALC_dashboard](images/mirth_netCALC_dashboard.png)
+
+![c_calc_in](images/c_calc_in.png)
+
+![c_calc_out](images/c_calc_out.png)
