@@ -1,5 +1,4 @@
-# mirth_netCALC
-Network Calculator as Decimal Computing Server 
+## mirth_netCALC - Network Calculator as Decimal Arithmetic Computing Server 
 
 netCALC is a file server calculator for network workgroups that allow you to perform easily
 the 4 standard arithmetic operations (+ - * /) and much more by using simply text files as input.
